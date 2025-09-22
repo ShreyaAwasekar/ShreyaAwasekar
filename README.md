@@ -1,18 +1,25 @@
 ![logo](https://github.com/ShreyaAwasekar/ShreyaAwasekar/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shreya Awasekar</h1>
-<h3 align="center">A passionate Software Development Engineer</h3>
+<h3 align="center">A passionate AI/ML Engineer from India</h3>
 
 - 🔭 I’m currently working on **Accident Data Analysis Project**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development & Advanced MLOPs**
 
-- 💬 Ask me about **Machine Learning , Deep Learning , Docker , Redis , Python , Gen AI , Agentic AI**
+- 👨‍💻 All of my projects are available at [https://github.com/ShreyaAwasekar](https://github.com/ShreyaAwasekar)
+
+- 📝 I regularly write articles on [https://shreyasinsights.blogspot.com](https://shreyasinsights.blogspot.com)
+
+- 💬 Ask me about **Machine Learning, Deep Learning, Docker, Redis, Python, Gen AI, Agentic AI**
 
 - 📫 How to reach me **01shreya03@gmail.com**
 
+- 📄 Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shreya-awasekar)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shreya awasekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya awasekar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreya-awasekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-awasekar" height="30" width="40" /></a>
+<a href="https://x.com/SAwasekar46611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sawasekar46611" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
