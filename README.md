@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **01shreya03@gmail.com**
 
-- 📄 Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shreya-awasekar)
+- 📄 Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/shreya-awasekar-05443526a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
