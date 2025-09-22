@@ -1,12 +1,12 @@
 ![logo](https://github.com/ShreyaAwasekar/ShreyaAwasekar/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shreya Awasekar</h1>
-<h3 align="center">A passionate Machine learning Engineer</h3>
+<h3 align="center">A passionate Software Development Engineer</h3>
 
 - 🔭 I’m currently working on **Accident Data Analysis Project**
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Machine Learning , Deep Learning**
+- 💬 Ask me about **Machine Learning , Deep Learning , Docker , Redis , Python , Gen AI , Agentic AI**
 
 - 📫 How to reach me **01shreya03@gmail.com**
 
