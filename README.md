@@ -1,26 +1,43 @@
-![logo](https://github.com/ShreyaAwasekar/ShreyaAwasekar/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
-<h1 align="center">Hi 👋, I'm Shreya Awasekar</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+# Hi 👋, I'm Shreya Awasekar
 
-- 🔭 I’m currently working on **Accident Data Analysis Project**
+### AI Engineer | Generative AI | Agentic AI | RAG | LLMs | Machine Learning
 
-- 🌱 I’m currently learning **Web Development & Advanced MLOPs**
+I build **production-oriented AI/ML systems** with a focus on Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), intelligent document processing, and scalable AI architecture.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShreyaAwasekar](https://github.com/ShreyaAwasekar)
+### What I work on
 
-- 📝 I regularly write articles on [https://shreyasinsights.blogspot.com](https://shreyasinsights.blogspot.com)
+- 🤖 **Generative AI & LLMs** — LLM applications, prompt engineering, offline LLM workflows
+- 🧩 **Agentic AI** — LangChain, LangGraph, multi-agent and tool-based workflows
+- 🔎 **RAG & Retrieval** — semantic search, embeddings, vector databases, contextual retrieval
+- 📄 **Document AI / IDP** — OCR, document classification, information extraction, structured data generation
+- 🏗️ **AI System Design** — solution architecture, microservices, API design, scalable pipelines
+- 🧠 **Machine Learning** — model development, evaluation, forecasting, anomaly detection
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Docker, Redis, Python, Gen AI, Agentic AI**
+### Featured work
 
-- 📫 How to reach me **01shreya03@gmail.com**
+| Project | Focus |
+|---|---|
+| **Enterprise Agentic AI** | RAG, multi-agent workflows, vector + graph retrieval, large document repositories |
+| **AI Database Chatbot** | Natural-language database interaction and agentic data retrieval |
+| **Intelligent Document Processing** | PDF processing, YOLO layout detection, PaddleOCR, structured extraction |
+| **Healthcare AI** | Machine learning prediction and offline LLM-based decision support |
 
-- 📄 Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/shreya-awasekar-05443526a)
+### Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shreya-awasekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-awasekar" height="30" width="40" /></a>
-<a href="https://x.com/SAwasekar46611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sawasekar46611" height="30" width="40" /></a>
-</p>
+**Languages:** Python, SQL, C, C++  
+**GenAI:** LLMs, Generative AI, Agentic AI, RAG, LangChain, LangGraph, Hugging Face, OpenAI API  
+**ML/DL:** Scikit-learn, PyTorch, TensorFlow, Keras, CNN, LSTM  
+**Retrieval & Databases:** FAISS, ChromaDB, Vector Databases, PostgreSQL, Neo4j  
+**Document AI:** PaddleOCR, OCR, OpenCV, YOLOv8, YOLOv10, IDP  
+**Backend & Cloud:** FastAPI, Docker, AWS, MLflow, Apache NiFi  
+**Tools:** Git, GitHub, Jupyter, VS Code
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreya-awasekar-05443526a)
+- 🐙 [GitHub](https://github.com/ShreyaAwasekar)
+- 📧 01shreya03@gmail.com
+
+---
+
+> Interested in AI/ML, Generative AI, Agentic AI, RAG, LLM applications, or production AI systems? Feel free to connect.
